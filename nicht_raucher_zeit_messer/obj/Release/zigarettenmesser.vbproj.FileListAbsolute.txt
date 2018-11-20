@@ -1,0 +1,17 @@
+D:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Studio 2008\Projects\nicht_raucher_zeit_messer\nicht_raucher_zeit_messer\bin\Release\nicht_raucher_zeit_messer.exe.manifest
+D:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Studio 2008\Projects\nicht_raucher_zeit_messer\nicht_raucher_zeit_messer\bin\Release\nicht_raucher_zeit_messer.application
+D:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Studio 2008\Projects\nicht_raucher_zeit_messer\nicht_raucher_zeit_messer\bin\Release\nicht_raucher_zeit_messer.exe
+D:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Studio 2008\Projects\nicht_raucher_zeit_messer\nicht_raucher_zeit_messer\bin\Release\nicht_raucher_zeit_messer.pdb
+D:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Studio 2008\Projects\nicht_raucher_zeit_messer\nicht_raucher_zeit_messer\bin\Release\nicht_raucher_zeit_messer.xml
+D:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Studio 2008\Projects\nicht_raucher_zeit_messer\nicht_raucher_zeit_messer\obj\Release\ResolveAssemblyReference.cache
+D:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Studio 2008\Projects\nicht_raucher_zeit_messer\nicht_raucher_zeit_messer\obj\Release\nicht_raucher_zeit_messer.zigarettenmesser.resources
+D:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Studio 2008\Projects\nicht_raucher_zeit_messer\nicht_raucher_zeit_messer\obj\Release\nicht_raucher_zeit_messer.Resources.resources
+D:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Studio 2008\Projects\nicht_raucher_zeit_messer\nicht_raucher_zeit_messer\obj\Release\zigarettenmesser.vbproj.GenerateResource.Cache
+D:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Studio 2008\Projects\nicht_raucher_zeit_messer\nicht_raucher_zeit_messer\obj\Release\nicht_raucher_zeit_messer.exe.manifest
+D:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Studio 2008\Projects\nicht_raucher_zeit_messer\nicht_raucher_zeit_messer\obj\Release\nicht_raucher_zeit_messer.application
+D:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Studio 2008\Projects\nicht_raucher_zeit_messer\nicht_raucher_zeit_messer\obj\Release\nicht_raucher_zeit_messer.exe
+D:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Studio 2008\Projects\nicht_raucher_zeit_messer\nicht_raucher_zeit_messer\obj\Release\nicht_raucher_zeit_messer.xml
+D:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Studio 2008\Projects\nicht_raucher_zeit_messer\nicht_raucher_zeit_messer\obj\Release\nicht_raucher_zeit_messer.pdb
+D:\Dokumente und Einstellungen\xander.NIXDA\Eigene Dateien\Visual Studio 2008\Projects\nicht_raucher_zeit_messer\nicht_raucher_zeit_messer\obj\Release\nicht_raucher_zeit_messer.exe
+D:\Dokumente und Einstellungen\xander.NIXDA\Eigene Dateien\Visual Studio 2008\Projects\nicht_raucher_zeit_messer\nicht_raucher_zeit_messer\obj\Release\nicht_raucher_zeit_messer.xml
+D:\Dokumente und Einstellungen\xander.NIXDA\Eigene Dateien\Visual Studio 2008\Projects\nicht_raucher_zeit_messer\nicht_raucher_zeit_messer\obj\Release\nicht_raucher_zeit_messer.pdb
